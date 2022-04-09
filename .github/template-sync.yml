@@ -1,6 +1,6 @@
 ---
 additional:
-- template-docker
+- temporary
 files:
 - '!**/sync.yml'
 - '!.secrets.baseline'
