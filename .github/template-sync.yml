@@ -1,8 +1,3 @@
 ---
 additional:
 - temporary
-files:
-- '!**/sync.yml'
-- '!.secrets.baseline'
-- '!**/template-sync.yml'
-- '!.github/workflows/sync.yml'
