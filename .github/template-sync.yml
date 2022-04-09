@@ -1,3 +1,7 @@
 ---
 additional:
 - template-*
+
+files:
+- '!.secrets.baseline'
+- '!.github/template-sync.yml'
