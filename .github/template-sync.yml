@@ -1,6 +1,6 @@
 ---
 additional:
-- template-*
+- relationship
 
 files:
 - '!README.md'
