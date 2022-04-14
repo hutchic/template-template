@@ -1,7 +1,6 @@
 ---
 additional:
 - template-*
-- ansible_playbooks
 
 files:
 - '!README.md'
