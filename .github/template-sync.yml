@@ -6,3 +6,4 @@ files:
 - '!README.md'
 - '!.secrets.baseline'
 - '!.github/template-sync.yml'
+- '!.github/workflows/pre-commit-update.yml'
