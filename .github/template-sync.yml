@@ -5,5 +5,6 @@ additional:
 files:
 - '!README.md'
 - '!.secrets.baseline'
+- '!.github/pull.yml'
 - '!.github/template-sync.yml'
 - '!.github/workflows/pre-commit-update.yml'
