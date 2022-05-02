@@ -32,7 +32,7 @@ repos:
   - id: forbid-tabs
   - id: remove-tabs
 - repo: https://github.com/IBM/detect-secrets
-  rev: 0.13.1+ibm.47.dss
+  rev: 0.13.1+ibm.48.dss
   hooks:
   - id: detect-secrets
     args: [--baseline, .secrets.baseline]
