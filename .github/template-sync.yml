@@ -1,6 +1,6 @@
 ---
 additional:
-- relationship
+- ansible_playbooks
 
 files:
 - '!README.md'
