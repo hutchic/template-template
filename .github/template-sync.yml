@@ -1,7 +1,6 @@
 ---
 additional:
-- ansible_playbooks
-- template-docker
+- relationship
 
 files:
 - '!README.md'
